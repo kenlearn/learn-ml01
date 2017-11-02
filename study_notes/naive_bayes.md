@@ -4,4 +4,4 @@
 ![Thomas Bayes](./thomas_bayes.png)
 
 ### Bayes Theorem
-![Bayes Theorem](./bayes_101.png)
+![Bayes Theorem](./bayes_theorem.png)

@@ -1,5 +1,7 @@
 # Machine Learning
-A learning project
+A learning project on machine learning
 
-> 2017-11-02: Start this project
+
+## Update Log
+- 2017-11-02: Start this project
 
