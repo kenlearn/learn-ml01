@@ -17,7 +17,7 @@ png Helvetica (10pt)Normal 110 Tranparent
 ```
 
 ### Equations
-| id | Name | Equations | Latex |
+| Id | Name | Equations | Latex |
 |----|------|-----------|-------|
 | 100 | Bayes Theorem | ![Bayes Therrem](images/100_bayes_theorem.png) | ```P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}``` |
 | 101 | Bayes Derivation Step 1 | ![Bayes Therrem](images/101_bayes_derivation_s1.png) | ```P(A|B) = \frac{P(A \cap B)}{P(B)}``` |
@@ -25,6 +25,8 @@ png Helvetica (10pt)Normal 110 Tranparent
 | 103 | Bayes Derivation Step 3 | ![Bayes Therrem](images/103_bayes_derivation_s3.png) | ```P(A \cap B) = P(B \cap A)``` |
 | 104 | Bayes Derivation Step 4 | ![Bayes Therrem](images/104_bayes_derivation_s4.png) | ```P(A|B)\cdot P(B) = P(B|A)\cdot P(A)``` |
 | 105 | Bayes Derivation Step 4 | ![Bayes Therrem](images/105_bayes_derivation_s5.png) | ```P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}``` |
+|   |   |   |   |
+| 106 | Bayes Derivation Step 4 | ![Bayes Therrem](images/105_bayes_derivation_s5.png) | ```P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}``` |
 
 
 
